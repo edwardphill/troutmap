@@ -2,7 +2,7 @@
 
 **A global life-list for trout.** Every species and subspecies, mapped by native range, clickable, checkable. Part field guide, part achievement system, part wall art.
 
-> Elder Scrolls completion mechanics × *Trout of the World* × the 50-state quarter map on your grandfather's wall.
+> Elder Scrolls completion mechanics × a watercolor field guide × the 50-state quarter map on your grandfather's wall.
 
 **Working domain:** troutspeciesmap.com
 **Status:** pre-build spec
@@ -89,7 +89,7 @@ This is the single most important schema decision in the project. It drives the 
 The reference is watercolor natural-history illustration: soft-edged washes, hand-lettered specimen labels, aged paper, generous margins, one fish centered like a museum plate.
 
 ### Legal note — read this before hiring anyone
-James Prosek's paintings are under copyright, and *Trout of the World* is his title. "In the style of" is a legitimate aesthetic direction; reproducing his work, tracing it, feeding it to an image model as a reference, or invoking his name in your marketing is not. Keep the influence at the level of **medium and layout**, not composition.
+Contemporary watercolor trout illustrators' work is under copyright. "In the style of" is a legitimate aesthetic direction; reproducing a living artist's work, tracing it, feeding it to an image model as a reference, or invoking their name in your marketing is not. Keep the influence at the level of **medium and layout**, not composition.
 
 ### Where the art actually comes from
 
@@ -300,7 +300,7 @@ Register at **Cloudflare Registrar** (~$11/yr, sold at wholesale with no markup 
 
 Note that **troutmap.com is taken** — an existing waterproof-river-map business. Different product, but avoid marketing collisions.
 
-**Backups to check in the same session:** troutlifelist.com, troutoftheworld.com (likely conflicts with the Prosek title — avoid), thetroutmap.com, salmonidae.com, troutslam.com, worldtroutmap.com.
+**Backups to check in the same session:** troutlifelist.com, thetroutmap.com, salmonidae.com, troutslam.com, worldtroutmap.com.
 
 Grab the matching handles on Instagram and Bluesky at the same time. Free, and you'll want them.
 
